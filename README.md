@@ -1,4 +1,4 @@
-<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/aab4afb9-0650-4585-9aca-736145bd74c1" /># 3-VI-CHARACTERISTICS-OF-GUNN-OSCILLATOR
+
 
 **Aim:**
 
