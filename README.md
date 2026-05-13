@@ -9,7 +9,8 @@ To study I-V characteristics of Gunn Diode and depth of modulation of modulation
 Gunn power supply, Gunn oscillator, PIN modulator, Isolator, Frequency Meter, Variableattenuator, Detector mount, Slotted section, VSWR meter.
 
 **Experimental Setup:**
-<img width="1098" height="226" alt="image" src="https://github.com/user-attachments/assets/007f2ba1-5c71-44c6-9da8-3229f7b0745a" />
+<img width="901" height="214" alt="Screenshot 2026-05-13 174551" src="https://github.com/user-attachments/assets/9dc49021-10bc-4666-ab42-4026064a904e" />
+
 
 
 
