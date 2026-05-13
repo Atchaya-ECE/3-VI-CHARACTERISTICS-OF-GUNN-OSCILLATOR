@@ -1,4 +1,4 @@
-# 3-VI-CHARACTERISTICS-OF-GUNN-OSCILLATOR
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/aab4afb9-0650-4585-9aca-736145bd74c1" /># 3-VI-CHARACTERISTICS-OF-GUNN-OSCILLATOR
 
 **Aim:**
 
@@ -74,7 +74,8 @@ From the observation table, it is seen that the current through the Gunn diode i
 This behavior confirms the **negative differential resistance (NDR)** characteristic of the Gunn diode, which is essential for microwave oscillation.
 
 ### Graphical Output:
-<img width="963" height="1280" alt="WhatsApp Image 2026-05-13 at 9 46 23 AM" src="https://github.com/user-attachments/assets/6dd1cc6b-1ca8-4b59-9f72-6333cb557a69" />
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/84c8521b-45d2-4e32-a6c6-3b39afdd584a" />
+
 
 
 #### Observation Analysis
